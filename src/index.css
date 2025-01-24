@@ -77,3 +77,7 @@ button:focus-visible {
 .boxes{
   height: 100%;
 }
+
+.box1{
+  color: white
+}
